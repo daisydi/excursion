@@ -24,10 +24,17 @@ body {
 }
 
 
-
 /* estilos de links */
 
 .link--cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+/* footer */
+
+.footer-copyright {
+    font-size: 16px;
+    color: gray;
+    text-align: right;
 }
